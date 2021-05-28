@@ -5,3 +5,6 @@ Based on CodeIgniter & JQuery
 
 ### Design 
 ![](./IMAGE/landing.jpg)
+![](./IMAGE/registration.jpg)
+![](./IMAGE/userhome_2.jpg)
+![](./IMAGE/create_offer.jpg)
